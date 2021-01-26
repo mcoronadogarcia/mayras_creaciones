@@ -42,7 +42,6 @@ menu:
 params:
   autoThumbnailImage: yes
   clearReading: yes
-  # coverImage: img/blue_square.png
   coverImage: img/fabric_photo2.png
   description: Hugo tranquilpeak theme demo
   header:
@@ -53,9 +52,6 @@ params:
   hierarchicalCategories: yes
   imageGallery: yes
   sharingOptions:
-    - icon: fa-facebook-official
-      name: Facebook
-      url: https://www.facebook.com/mayra.coronado.3/
     - icon: fa-instagram
       name: Instagram
       url: https://www.instagram.com/mayra.smithcoronado/
