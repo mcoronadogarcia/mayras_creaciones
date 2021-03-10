@@ -1,13 +1,10 @@
 ---
 categories:
-- tranquilpeak
-- features
+- Blog Template
 coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 coverMeta: out
 date: "2015-05-13"
 metaAlignment: center
-tags:
-- cover image
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 thumbnailImagePosition: left
 title: Cover image showcase

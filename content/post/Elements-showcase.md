@@ -1,11 +1,7 @@
 ---
 categories:
-- tranquilpeak
-- features
+- Blog Template
 date: "2015-05-28"
-tags:
-- html elements
-- markdown
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
 thumbnailImagePosition: left
 title: Elements showcase

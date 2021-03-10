@@ -1,8 +1,7 @@
 ---
 date: "2014-10-29"
-tags:
-- tag plugins
-- test
+categories:
+- Blog Template
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-6-140.jpg
 thumbnailImagePosition: left
 title: Tags plugins showcase

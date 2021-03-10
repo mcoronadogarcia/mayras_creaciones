@@ -1,12 +1,7 @@
 ---
 categories:
-- tranquilpeak
-- features
+- Blog Template
 date: "2015-03-23"
-tags:
-- highlight code
-- github theme
-- test
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/highlighted-code-showcase/peak-140.jpg
 thumbnailImagePosition: left
 title: highlighted code showcase

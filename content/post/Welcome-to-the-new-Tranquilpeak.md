@@ -1,21 +1,10 @@
 ---
 autoThumbnailImage: false
 categories:
-- tranquilpeak
-- releases
+- Blog Template
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 date: "2015-06-15"
-keywords:
-- disqus
-- google
-- gravatar
 metaAlignment: center
-tags:
-- hexo theme
-- responsive
-- gravatar
-- disqus
-- google analytics
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 thumbnailImagePosition: top
 title: Welcome to Tranquilpeak 0.4.8-BETA

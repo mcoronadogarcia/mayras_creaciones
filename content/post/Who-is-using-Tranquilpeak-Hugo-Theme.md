@@ -1,7 +1,6 @@
 ---
 categories:
-- tranquilpeak
-- showcase
+- Blog Template
 date: "2015-06-14"
 slug: who-is-using-tranquilpeak-hugo-theme
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg

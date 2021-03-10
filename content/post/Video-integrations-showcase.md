@@ -1,13 +1,7 @@
 ---
 categories:
-- tranquilpeak
-- features
+- Blog Template
 date: "2014-08-09"
-tags:
-- videos integration
-- youtube
-- vimeo
-- dailymotion
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/video-integration-showcase/peak-140.jpg
 thumbnailImagePosition: left
 title: Video integrations showcase

@@ -1,11 +1,8 @@
 ---
 categories:
-- tranquilpeak
-- features
+- Blog Template
 date: "2014-08-15"
 showPagination: false
-tags:
-- pagination
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
 thumbnailImagePosition: left
 title: Hidden pagination showcase

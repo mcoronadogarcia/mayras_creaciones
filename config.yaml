@@ -20,7 +20,7 @@ author:
 menu:
   main:
     - identifier: home
-      name: Home
+      name: <strong>Home</strong>
       pre: <i class="sidebar-button-icon fa fa-lg fa-home"></i>
       url: /
       weight: 1
@@ -39,6 +39,12 @@ menu:
       pre: <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       url: /tags
       weight: 4
+    # - identifier: templates
+    #   name: Blog Templates
+    #   pre: <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+    #   url: /templates
+    #   weight: 4
+      
 params:
   autoThumbnailImage: yes
   clearReading: yes
