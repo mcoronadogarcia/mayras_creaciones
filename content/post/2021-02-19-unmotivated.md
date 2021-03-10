@@ -13,7 +13,7 @@ keywords:
   - gather quilt
   - dismantle white supremacy
 date: '2021-02-19'
-coverImage: img/gatherquilt_week5.png
+coverImage: img/Quilting/GatherQuilt/gatherquilt_week5.png
 thumbnailImagePosition: left
 title: Making Time For Myself
 summary: Over the past two weeks, I found myself in an unmotivated funk. Thanks to sewing these strips together, I gave myself time to reflect and find balance as I remembered the power of five minutes.
