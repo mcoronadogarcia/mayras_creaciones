@@ -17,7 +17,7 @@ coverImage: img/Quilting/GatherQuilt/gatherquilt_week5.png
 coverSize: partial
 thumbnailImagePosition: left
 title: Making Time For Myself
-summary: Over the past two weeks, I found myself in an unmotivated funk. Thanks to sewing these strips together, I gave myself time to reflect and find balance as I remembered the power of five minutes.
+summary: Over the past two weeks, I found myself in an unmotivated funk and through sewing, I remembered the power of five minutes.
 ---
 
 During week five, I sewed all the 142 half square triangles (HSTs) I sewed and trimmed on week three and four of the sew along. During this time, I was reflecting on how unmotivated I have been feeling during the past two weeks. The only reason I was able to even find motivation to continue building this gather quilt top was because I made a commitment to myself to sew at the pace of the sew along. I am thankful for this commitment because working on this quilt top gave me time and space to figure out why I was feeling so down and exhausted. 
