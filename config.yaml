@@ -61,7 +61,7 @@ params:
     - icon: fa-instagram
       name: Instagram
       url: https://www.instagram.com/mayra.smithcoronado/
-  sidebarBehavior: 1
+  sidebarBehavior: 2
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
   thumbnailImagePosition: bottom
