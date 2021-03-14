@@ -14,9 +14,10 @@ taxonomies:
   tag: tags
 author:
   bio: Sewer, Quilter, and Translator of Data
-  name: Mayra Smith-Coronado 
+  name: Mayra's Creaciones 
   # picture: https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png
   picture: img/profile_photo_square.png
+  logo: images/logo.png
 menu:
   main:
     - identifier: home
@@ -48,7 +49,7 @@ menu:
 params:
   autoThumbnailImage: yes
   clearReading: yes
-  coverImage: img/fabric_photo2.png
+  coverImage: img/fabric_photo3.png
   description: Hugo tranquilpeak theme demo
   header:
     rightLink:

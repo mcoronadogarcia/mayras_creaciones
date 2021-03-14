@@ -1,6 +1,6 @@
 ---
 author: Mayra Smith-Coronado
-slug: final_reflections
+slug: gatherquiltsa_week5
 categories:
   - Quilting
 tags:
@@ -24,5 +24,4 @@ During week five, I sewed all the 142 half square triangles (HSTs) I sewed and t
 
 Normally, I try to make time for me by reading a book, journaling, doing some yoga, or quilting. Most of the time, I don’t do all of these, but even doing one helps me check-in with myself and feel accomplished. As the days passed, I just felt drained and making time for myself felt impossible. Getting out of this funk was super challenging until I remembered that even five minutes of me time, is still me time. Reading for five minutes, stretching for five minutes, even just planning my quilt/sewing projects for five minutes gave me energy I did not expect and reminded me why I love to do all these things. 
 
-So if you are in a funk, take 5 minutes for you even if that means running in place or closing your eyes, etc. The more balance we find in our lives, the more energy we have to disrupt white supremacy and the status quo. 
-
+So if you are in a funk, take 5 minutes for you even if that means running in place or closing your eyes, etc. The more balance we find in our lives, the more energy we have to disrupt white supremacy and the status quo.

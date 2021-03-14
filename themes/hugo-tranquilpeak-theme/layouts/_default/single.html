@@ -21,6 +21,8 @@
               {{ partial "post/gallery.html" . }}
             </div>
           </div>
+          <br></br>
+          <img style = "display: block; margin-left: auto; margin-right: auto" src = "/img/logo/MC_TitleLogo.png", height = "150"/>
           <div id="post-footer" class="post-footer main-content-wrap">
             {{ if (not (eq .Params.showTags false)) }}
               {{ with .Params.tags }}
