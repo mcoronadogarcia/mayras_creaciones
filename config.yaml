@@ -15,9 +15,7 @@ taxonomies:
 author:
   bio: Sewer, Quilter, and Translator of Data
   name: Mayra's Creaciones 
-  # picture: https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png
   picture: img/profile_photo_square.png
-  logo: images/logo.png
 menu:
   main:
     - identifier: home
@@ -40,11 +38,6 @@ menu:
       pre: <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       url: /tags
       weight: 4
-    # - identifier: templates
-    #   name: Blog Templates
-    #   pre: <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
-    #   url: /templates
-    #   weight: 4
       
 params:
   autoThumbnailImage: yes
@@ -57,7 +50,7 @@ params:
       icon: ''
       url: /#about
   hierarchicalCategories: yes
-  imageGallery: yes
+  imageGallery: TRUE
   sharingOptions:
     - icon: fa-instagram
       name: Instagram
