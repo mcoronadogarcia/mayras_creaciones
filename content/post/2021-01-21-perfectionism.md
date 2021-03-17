@@ -20,9 +20,9 @@ thumbnailImagePosition: left
 summary: Quilting has slowly become one way I have been taking care of myself and a place where I confront my perfectionism.
 ---
 
-In 2018, my husband Michael and my in-laws Jeanne and Tom gave me a beautiful sewing machine for my birthday. I had been wanting one for years, but when I finally got one, it sat most of the time untouched. I didn’t know why I was so afraid of using it until I took the Confronting Anti-Blackness for Latinx and Chicanx program that was guided by Celesté from @CelestialAlegria. 
+In 2018, my husband Michael and my in-laws Jeanne and Tom gave me a beautiful sewing machine for my birthday. I had been wanting one for years, but when I finally got one, it sat most of the time untouched. I didn’t know why I was so afraid of using it until I took the Confronting Anti-Blackness for Latinx and Chicanx program that was guided by Celesté from [Celestial Alegria](https://www.celestialalegria.com).
 
-In this training one of the things I learned about was the [characteristics of white supremacy culture](https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html). Reviewing these characteristics it was easy to see which appeared in institutional settings like college, grad school, and work. It was harder to ask myself which ones I exhibit and I quickly realized perfectionism was on the top of that list. 
+In this training one of the things I learned about was the [ 12 characteristics of white supremacy culture](https://www.showingupforracialjustice.org/white-supremacy-culture-characteristics.html). Reviewing these characteristics it was easy to see which appeared in institutional settings like college, grad school, and work. It was harder to ask myself which ones I exhibit and I quickly realized perfectionism was on the top of that list. 
 
 Perfectionism was draining my energy because I felt like I had to be the perfect coworker, sister, daughter, friend, and immigrant. Perfectionism was silencing me from having discussions about racial injustices and police brutality because I thought my words needed to be perfect in order to have honest and open discussions. Perfectionism was even stopping me from sewing because I thought everything I made needed to be perfect and any mistake meant I wasn’t a good enough sewer. 
 
