@@ -64,10 +64,10 @@
       {{ end }}
       {{ if and (not (eq .Params.comments false)) .Site.DisqusShortname }}
         <li class="post-action">
-          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+          <!--<a class="post-action-btn btn btn--default" href="#disqus_thread">
             <i class="fa fa-comment-o"></i>
-          </a>
-        </li>
+          </a> -->
+        </li> 
       {{ end }}
       <li class="post-action">
         {{ if findRE "<!--\\s*[t|T][o|O][c|C]\\s*-->" .Content }}
