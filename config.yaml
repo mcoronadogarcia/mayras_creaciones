@@ -54,7 +54,7 @@ params:
   sharingOptions:
     - icon: fa-instagram
       name: Instagram
-      url: https://www.instagram.com/mayra.smithcoronado
+      url: "https://www.instagram.com/mayra.smithcoronado?url=%s"
   sidebarBehavior: 2
   syntaxHighlighter: highlight.js
   thumbnailImage: yes
