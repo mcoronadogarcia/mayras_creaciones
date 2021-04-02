@@ -42,7 +42,7 @@ menu:
 params:
   autoThumbnailImage: yes
   clearReading: yes
-  coverImage: img/fabric_photo3.jpg
+  coverImage: img/fabric_photo3.png
   description: Hugo tranquilpeak theme demo
   header:
     rightLink:
