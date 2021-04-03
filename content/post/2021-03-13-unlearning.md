@@ -14,7 +14,7 @@ keywords:
   - quilting
   - gather quilt
   - unlearning
-coverImage: img/Quilting/GatherQuilt/week6_2.png
+coverImage: img/Quilting/GatherQuilt/week6_2.jpg
 coverSize: partial
 thumbnailImagePosition: left
 title: Unlearning

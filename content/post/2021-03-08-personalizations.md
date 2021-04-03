@@ -13,7 +13,7 @@ keywords:
   - quilting
   - gather quilt
   - unlearning
-coverImage: img/Quilting/GatherQuilt/week7.png
+coverImage: img/Quilting/GatherQuilt/week7.jpg
 coverSize: full
 thumbnailImagePosition: left
 title: Personalizations

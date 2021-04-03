@@ -13,7 +13,7 @@ keywords:
   - gather quilt
   - dismantle white supremacy
 date: '2021-02-19'
-coverImage: img/Quilting/GatherQuilt/gatherquilt_week5.png
+coverImage: img/Quilting/GatherQuilt/gatherquilt_week5.jpg
 coverSize: partial
 thumbnailImagePosition: left
 title: Making Time For Myself

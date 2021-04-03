@@ -14,7 +14,7 @@ keywords:
   - quilting
   - gather quilt
   - storytellers
-coverImage: img/Quilting/GatherQuilt/week3.png
+coverImage: img/Quilting/GatherQuilt/week3.jpg
 coverSize: partial
 thumbnailImagePosition: left
 summary: Sewing half square triangles (HSTs) and thinking of all the storytellers inspiring me.

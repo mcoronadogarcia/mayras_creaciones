@@ -14,7 +14,7 @@ keywords:
   - quilting
   - gather quilt
   - dismantle white supremacy
-coverImage: img/Quilting/GatherQuilt/week1.png
+coverImage: img/Quilting/GatherQuilt/week1.jpg
 coverSize: partial
 thumbnailImagePosition: left
 summary: Quilting has slowly become one way I have been taking care of myself and a place where I confront my perfectionism.
