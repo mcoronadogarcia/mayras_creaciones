@@ -1,4 +1,7 @@
 baseURL: https://mayrascreaciones.netlify.app/
+
+googleAnalytics = "G-LES3C3BBSF"
+
 languageCode: en-us
 defaultContentLanguage: en-us
 title: Mayra's Creaciones
