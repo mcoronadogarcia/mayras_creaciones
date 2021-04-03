@@ -1,6 +1,6 @@
 baseURL: https://mayrascreaciones.netlify.app/
 
-googleAnalytics = "UA-193728458-1"
+# googleAnalytics = "UA-193728458-1"
 
 languageCode: en-us
 defaultContentLanguage: en-us
