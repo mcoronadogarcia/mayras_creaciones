@@ -17,7 +17,6 @@ keywords:
 coverImage: img/Quilting/GatherQuilt/week6_2.jpg
 coverSize: partial
 thumbnailImagePosition: left
-title: Unlearning
 summary: Over the past few weeks, I have been learning more about my beliefs and begun to recognize that there are things we are taught that we need to unlearn.
 ---
 
