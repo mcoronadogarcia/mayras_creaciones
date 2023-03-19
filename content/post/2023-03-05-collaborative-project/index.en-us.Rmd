@@ -1,0 +1,36 @@
+---
+title: Launching a Collaborative Project!
+author: Mayra Smith-Coronado
+date: '2023-03-19'
+slug: collaborative-project
+categories: []
+tags:
+  - Reflections
+keywords:
+  - blog
+  - annoucements
+  - life update
+thumbnailImage: 
+thumbnailImpage Position: Left
+summary: I am excited to annouce that my husband and I have decided to collaborate on an exciting new project. Expected release date is September 30th, 2023.
+---
+
+<html>
+    <link rel="stylesheet" href="my-style.css" />
+</html>
+
+## Meet The Team
+
+![Michael Software Engineer; Mayra Statistical Analyst; Penny Senior Treat Analyst; Kiba Junior Trick Specialist](/img/Family/the_team.jpg)
+
+## Our New Headquarters
+
+Expected onsite amenities: Indoor gym, crafting room, gaming station, and bottomless coffee.
+
+![Settling In](/img/Family/perry_project.jpg)
+
+## Currently In Development
+
+And while we were looking for our forever home, we soon found out that we had a new family member joining us! Expected due date is September 30th, 2023.
+<br></br>
+![Our Newest Member](/img/Family/ultrasound.jpg)
